@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect }  from 'react';
 import './slider.css';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import ProfilePicture from '../assets/1T.jpg';
@@ -7,8 +7,14 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import link from '../assets/linkedin.png';
 import gmail from '../assets/images.png'; 
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 export default function Slider() {
+    useEffect(() => {
+        Aos.init({ duration: 1100 });
+
+    }, []);
 
     return (
         <div>
