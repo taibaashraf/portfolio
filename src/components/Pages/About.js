@@ -19,7 +19,7 @@ export const About = () => {
                     Working Experience
                 </h2>
                 <Row>
-                    <Col md={6} data-aos="fade-right" id="time-text">
+                    <Col md={6} id="time-text">
                         <h2>SFCC Front-End Developer</h2>
                         <h4>Royal Cyber</h4>
                         <h4>NOVEMBER 2021 – Present</h4>
@@ -49,7 +49,7 @@ export const About = () => {
                     <Col md={5} class="timeline-date">
 
                     </Col>
-                    <Col md={6} data-aos="fade-left" id="time-text" style={
+                    <Col md={6}  id="time-text" style={
                         {
                             borderRight: 'none',
                             borderLeft: '5px solid #dddddd'
@@ -74,7 +74,7 @@ export const About = () => {
                 </Row>
 
                 <Row>
-                    <Col md={6} data-aos="fade-right" id="time-text">
+                    <Col md={6}  id="time-text">
                         <h2>SFCC Front-End Developer</h2>
                         <h4>Boolean Bits</h4>
                         <h4>JULY 2020 – OCTOBER 2020</h4>
@@ -104,7 +104,7 @@ export const About = () => {
                     <Col md={5} class="timeline-date">
 
                     </Col>
-                    <Col md={6} data-aos="fade-left" id="time-text" style={
+                    <Col md={6}  id="time-text" style={
                         {
                             borderRight: 'none',
                             borderLeft: '5px solid #dddddd'
