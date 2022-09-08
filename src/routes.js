@@ -14,8 +14,8 @@ export default function Routes() {
                 <Switch>
                     <Route exact path="/" render={props => (
                         <React.Fragment>
-                            <About />
-                            <Contact />
+                            {/* <About /> */}
+                            {/* <Contact /> */}
                         </React.Fragment>
                     )} />
                 </Switch>

@@ -20,3 +20,101 @@
     padding-left: 0%;
     margin-top: 45px;
 }
+/* workinggg Exp */
+.headerExpe {
+    text-align: center;
+    line-height: 80px;
+    font-size: 45px;
+    font-weight: 700;
+    margin: 5%;
+    font-family: "Montserrat", Arial, Tahoma, sans-serif;
+  }
+  
+  #time-text {
+    padding: 30px;
+    background: #ffffff;
+    position: relative;
+    border-right: 5px solid #dddddd;
+    box-shadow: 0 0 60px rgb(0 0 0 / 8%);
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+  
+  #time-text h2 {
+    margin: 0 0 5px 0;
+    font-size: 22px;
+    font-weight: 600;
+    color: #414141;
+  }
+  
+  #time-text h4 {
+    margin: 0 0 8px 0;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    color: #414141
+  }
+  
+  #time-text p {
+    text-align: justify;
+    color: #797979;
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  
+  #textSliderAbout {
+    text-align: justify;
+    color: #555;
+    font: inherit;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    font-size: 17px;
+    width: 101%;
+    margin-left: 17px;
+    padding-left: 0%;
+    font-family: "Montserrat", Arial, Tahoma, sans-serif;
+  }
+  
+  .ml6 {
+    position: relative;
+    font-weight: 900;
+    font-size: 3.3em;
+  }
+  
+  .ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+/* contactttt */
+.hover {
+    height: 20px;
+    margin-left: 2%;
+  
+  }
+  
+  .footer_copy {
+    border-top: 1px solid rgba(106, 58, 188, 0.19);
+  }
+  
+  .copyright {
+    padding: 25px;
+    font-size: 18px;
+    color: #555;
+    text-align: center;
+    font-family: "Montserrat", Arial, Tahoma, sans-serif;
+  }
+  
+  .infoList {
+    list-style-type: none;
+  }
