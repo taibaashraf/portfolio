@@ -1,12 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import './About.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Aos from "aos";
 import "aos/dist/aos.css";
-// import Spin from './spin';
-// data-aos="fade-left"
 
 export const About = () => {
     useEffect(() => {
@@ -26,10 +24,18 @@ export const About = () => {
                         <h4>Royal Cyber</h4>
                         <h4>NOVEMBER 2021 – Present</h4>
                         <p>
-                            Work on a migrating an existing application into modernized UI experience.
-                            Make recommendations for enhancements and modifications to improve system
-                            performance, efficiency, internal business process, and reporting. Work Closely
-                            with Project Manager to develop solution in accordance to the system design.
+                        Royal Cyber Inc. is a globally recognized award-winning 
+                        technology partner that is helping companies imagine, 
+                        execute, and accelerate their digital transformation. 
+                        Being a Front-End Developer, my responsibilities are to 
+                        develop new modules and enhancing the code with best fit 
+                        approaches of Model-View-Controller (MVC) design pattern 
+                        to keep the code clean and minimize the factor of complexity. 
+                        I am using Demandware to consume the third-party API’s. I work 
+                        closely with Solution Architect to develop solution in accordance 
+                        with the system design. There are some tools and platforms which 
+                        has been using for this purpose are: JavaScript, jQuery, HTML, 
+                        SASS, Waterfall, GitHub, Visual Studio Code, Bitbucket, JIRA.    
                         </p>
                     </Col>
 
@@ -52,9 +58,14 @@ export const About = () => {
                         <h4>Silverback (Pvt) Ltd</h4>
                         <h4>NOVEMBER 2020 – SEPTEMBER 2021</h4>
                         <p>
-                            Participated in design and development of Web applications
-                            using Visual Studio Code and Microsoft SQL. Developed a virtual
-                            lab for the hardware students to implement their tasks.
+                        Silverback is a premiere Internet of Things 
+                        centric technology company aimed at providing 
+                        cutting edge innovative solutions that provides 
+                        tools for creators to develop internet-connected 
+                        hardware. Being a Front-End Developer, my responsibilities
+                         are to design and development of Web applications using 
+                         Visual Studio Code and Microsoft SQL. Developed a virtual 
+                         lab for the hardware students to implement their tasks. 
                             Virtually Accessible Physical Lab (VAP), Silverback Website and
                             Beepure Website.
 
@@ -68,13 +79,20 @@ export const About = () => {
                         <h4>Boolean Bits</h4>
                         <h4>JULY 2020 – OCTOBER 2020</h4>
                         <p>
-                            Implemented web design and development principles to build
-                            stable software. Collaborating with designers to ensure
-                            designs were efficient and technically sound. Developed
-                            websites and web pages that are responsive and usable. Recommended
-                            solutions for a streamlined, user-friendly interface with the design team.
-                            Some of the tools and platforms which I had been using for this purpose
-                            are: HTML5,React JS, React-Bootstrap, CSS SCSS, Typescript, GIT and GITHUB.
+                        Boolean Bits provides business support 
+                        solutions to a global client base. Being 
+                        a Front-End Developer, my responsibilities 
+                        are to design and implement the different modules.
+                         Some of the tools and platforms which I had been 
+                         using for this purpose are: HTML5, React JS, 
+                         React-Bootstrap, CSS SCSS, Typescript, GIT and
+                          GITHUB. Implemented web design and development 
+                          principles to build stable software. Collaborating
+                           with designers to ensure designs were efficient 
+                           and technically sound. Developed websites and web 
+                           pages that are responsive and usable. Recommended 
+                           solutions for a streamlined, user-friendly interface 
+                           with the design team.     
                         </p>
                     </Col>
                     <Col md={5} class="timeline-date">

@@ -14,10 +14,6 @@ export const Contact = () => {
                 <Row>
                     <Col className="copyright">
                         Contact Info:
-                        {/* © 2021 Silverback. All Rights Reserved. */}
-                        {/* <a href="https://www.linkedin.com/in/tayyaba-naseem-9003591aa/" target="_blank"></a>
-                        <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">ashraftaiba@gmail.com</a> */}
-
                         <ul className="infoList">
                             <li>
                                 <a href="https://www.linkedin.com/in/tayyaba-naseem-9003591aa/" target="_blank">

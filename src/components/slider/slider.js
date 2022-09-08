@@ -20,7 +20,7 @@ export default function Slider() {
                         Hi, I am Tayyaba Naseem. I have done Bachelor's in
                         Computer Science from Sir Syed CASE Institute of
                         Technology, Islamabad, Pakistan. I have been working
-                        professionally for more than 2 years as a Front-End Developer.
+                        professionally for about 3 years as a Front-End Developer.
                         I have learnt to complete challenging responsibilities. 
                         I am well equipped to be a suitable addition for a good 
                         software development team.
