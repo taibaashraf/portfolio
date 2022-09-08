@@ -6,7 +6,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import link from '../assets/linkedin.png';
-import gmail from '../assets/images.png';
+import gmail from '../assets/images.png'; 
 
 export default function Slider() {
 
@@ -43,7 +43,7 @@ export default function Slider() {
                         Working Experience
                     </h2>
                     <Row>
-                        <Col md={6} id="time-text">
+                        <Col md={6} data-aos="fade-right" id="time-text">
                             <h2>SFCC Front-End Developer</h2>
                             <h4>Royal Cyber</h4>
                             <h4>NOVEMBER 2021 – Present</h4>
@@ -73,7 +73,7 @@ export default function Slider() {
                         <Col md={5} class="timeline-date">
 
                         </Col>
-                        <Col md={6} id="time-text" style={
+                        <Col md={6} data-aos="fade-left" id="time-text" style={
                             {
                                 borderRight: 'none',
                                 borderLeft: '5px solid #dddddd'
@@ -98,7 +98,7 @@ export default function Slider() {
                     </Row>
 
                     <Row>
-                        <Col md={6} id="time-text">
+                        <Col md={6} data-aos="fade-right" id="time-text">
                             <h2>SFCC Front-End Developer</h2>
                             <h4>Boolean Bits</h4>
                             <h4>JULY 2020 – OCTOBER 2020</h4>
@@ -128,7 +128,7 @@ export default function Slider() {
                         <Col md={5} class="timeline-date">
 
                         </Col>
-                        <Col md={6} id="time-text" style={
+                        <Col md={6} data-aos="fade-left" id="time-text" style={
                             {
                                 borderRight: 'none',
                                 borderLeft: '5px solid #dddddd'
