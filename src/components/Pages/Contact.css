@@ -1,0 +1,21 @@
+.hover {
+  height: 20px;
+  margin-left: 2%;
+
+}
+
+.footer_copy {
+  border-top: 1px solid rgba(106, 58, 188, 0.19);
+}
+
+.copyright {
+  padding: 25px;
+  font-size: 18px;
+  color: #555;
+  text-align: center;
+  font-family: "Montserrat", Arial, Tahoma, sans-serif;
+}
+
+.infoList {
+  list-style-type: none;
+}
